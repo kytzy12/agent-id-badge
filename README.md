@@ -1,7 +1,14 @@
 # Agent ID Badge — Binance Agent ID Hackathon
 
-**Status: BUILT + TESTED LOCALLY. NOT deployed. NOT submitted.**
+**Status: LIVE — contract deployed on BNB Chain, website live, project submitted to the hackathon.**
 Submission deadline: **9 Dec 2026, 08:00 UTC (15:00 WIB)**.
+
+## Links
+
+- **Website (mint your free badge):** https://kytzy12.github.io/agent-id-badge/
+- **Contract (BscScan):** https://bscscan.com/address/0x3DDe30F3e5E7D90191904CA34e1D42d29CF97f0A
+- **X (updates):** https://x.com/lucky23334 — launch post: https://x.com/lucky23334/status/2123082106930897038
+- **Demo video (60s):** https://kytzy12.github.io/agent-id-badge/VID-20261119-WA0634.mp4
 
 ## Apa ini?
 
